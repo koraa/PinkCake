@@ -1,0 +1,9 @@
+[submodule "lib/nib"]
+	path = lib/nib
+	url = git://github.com/visionmedia/nib.git
+[submodule "lib/jquery"]
+	path = lib/jquery
+	url = git://github.com/jquery/jquery.git
+[submodule "lib/crafty"]
+	path = lib/crafty
+	url = git://github.com/craftyjs/Crafty.git
